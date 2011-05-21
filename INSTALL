@@ -1,0 +1,5 @@
+INSTALLATION
+
+This a standard Python module. Make sure the module is available somewhere in
+your Python path. Try to install the custom importer at the beginning of your
+application. See the documentation for more details on how to use the module.

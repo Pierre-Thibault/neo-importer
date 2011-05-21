@@ -1,0 +1,16 @@
+Author: Pierre Thibault (pierre.thibault1 -at- gmail.com)
+License: MIT
+Since: 2011-05-21
+
+neo-importer is custom Python importer tracking changes of Python source files
+".py" and reloading them at the next import statement. This enables the
+developer to make changes to its files and see the result of these changes the
+next time these modules are imported. This a useful tool for Python development
+and debugging.
+
+
+2011-05-21: First release. 
+
+Requirements: Python 2.5 and higher (excluding Python 3).
+
+Project site: http://code.google.com/p/neo-importer/
