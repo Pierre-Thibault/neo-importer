@@ -21,6 +21,10 @@ This a standard Python module. Make sure the module is available somewhere in yo
 Comments or questions? [Join the user group](http://groups.google.com/group/neo-users)
 
 Author: Pierre Thibault (pierre.thibault1 -at- gmail.com)
+
 License: MIT
+
 Since: 2011-05-21
+
+Project page: [https://github.com/Pierre-Thibault/neo-importer](https://github.com/Pierre-Thibault/neo-importer)
 
